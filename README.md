@@ -1,0 +1,2 @@
+# DesktopDynamicWallpaperForQT
+基于QT ffmpeg的动态桌面壁纸
